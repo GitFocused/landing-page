@@ -115,13 +115,13 @@ footer {
     padding: 100px 0;
 }
 
-.heroic-lines,
-.hero-img {
-    flex: 1 1 0;
+.heroic-lines {
+    max-width: 46%;
 }
 
 .hero-img {
     color: #E5E7EB;
+    margin-left: auto;
 }
 
 .hero h1 {
