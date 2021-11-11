@@ -190,15 +190,16 @@ footer {
     font-size: 36px;
     font-style: italic;
     line-height: 1.5;
-    padding: 120px 0;
+    padding: 140px 0;
 }
 
 .quote-section blockquote {
-    padding-left: 60px;
+    padding: 0 120px;
 }
 
 .quote-section figcaption{
     font-size: 20px;
+    margin-right: 120px;
     text-align: right;
 }
 
@@ -222,7 +223,8 @@ cite {
 
 .cta {
     font-size: 20px;
-    padding: 40px 130px;
+    line-height: 26px;
+    padding: 50px 120px;
 }
 
 .cta-title {
@@ -234,4 +236,13 @@ cite {
     align-self: center;
     border: 2px solid;
     margin-left: auto;
+}
+
+footer {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    padding: 40px 0;
+    text-align: center;
 }
